@@ -1,0 +1,9 @@
+import styled from 'styled-components'
+
+export const Form = styled.form`
+display: flex;
+flex-direction: column;
+margin-top: 60px;
+margin-left: 25%;
+margin-right: 25%;
+`
